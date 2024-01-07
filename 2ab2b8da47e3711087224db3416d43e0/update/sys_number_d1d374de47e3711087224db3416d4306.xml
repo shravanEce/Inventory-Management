@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_774640_inm_vendor">x_774640_inm_vendor</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>VEN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-07 11:29:05</sys_created_on>
+        <sys_id>d1d374de47e3711087224db3416d4306</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VEN</sys_name>
+        <sys_package display_value="INM" source="x_774640_inm">2ab2b8da47e3711087224db3416d43e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="INM">2ab2b8da47e3711087224db3416d43e0</sys_scope>
+        <sys_update_name>sys_number_d1d374de47e3711087224db3416d4306</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-07 11:29:05</sys_updated_on>
+    </sys_number>
+</record_update>
